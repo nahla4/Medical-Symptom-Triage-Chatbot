@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-openai>=0.1.0
+chromadb>=0.4.0
+sentence-transformers
+transformers
+torch --extra-index-url https://download.pytorch.org/whl/cpu
+fastapi
+uvicorn
+streamlit
+pytest

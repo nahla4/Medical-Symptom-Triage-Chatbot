@@ -1,0 +1,856 @@
+{
+    "Fungal infection": {
+        "disease_name": "Fungal infection",
+        "icd10": "B35.9",
+        "description": "An inflammatory skin condition caused by a fungus, typically leading to itching, scaling, and skin rashes.",
+        "precautions": [
+            "Keep affected area clean and dry",
+            "Use over-the-counter antifungal creams",
+            "Avoid sharing personal items like towels",
+            "Wear breathable cotton clothing"
+        ],
+        "symptoms": [
+            "dischromic_patches",
+            "itching",
+            "nodal_skin_eruptions",
+            "skin_rash"
+        ]
+    },
+    "Allergy": {
+        "disease_name": "Allergy",
+        "icd10": "T78.4",
+        "description": "An immune system reaction to a foreign substance (allergen) that is typically harmless, causing symptoms like sneezing, itching, or rashes.",
+        "precautions": [
+            "Identify and avoid known allergens",
+            "Use antihistamines",
+            "Apply cool compresses to itchy skin",
+            "Seek medical care if breathing is affected"
+        ],
+        "symptoms": [
+            "chills",
+            "continuous_sneezing",
+            "shivering",
+            "watering_from_eyes"
+        ]
+    },
+    "GERD": {
+        "disease_name": "GERD",
+        "icd10": "K21.9",
+        "description": "Gastroesophageal Reflux Disease is a chronic digestive disease where stomach acid flows back into the food pipe, irritating the lining.",
+        "precautions": [
+            "Avoid fatty, spicy, or acidic foods",
+            "Do not lie down immediately after eating",
+            "Eat smaller, more frequent meals",
+            "Elevate the head of your bed"
+        ],
+        "symptoms": [
+            "acidity",
+            "chest_pain",
+            "cough",
+            "stomach_pain",
+            "ulcers_on_tongue",
+            "vomiting"
+        ]
+    },
+    "Chronic cholestasis": {
+        "disease_name": "Chronic cholestasis",
+        "icd10": "K83.1",
+        "description": "A condition where the flow of bile from the liver is reduced or blocked, leading to jaundice, itching, and potential liver damage.",
+        "precautions": [
+            "Consult a gastroenterologist",
+            "Avoid alcohol and liver-toxic substances",
+            "Follow a low-fat diet",
+            "Take prescribed medication for itching"
+        ],
+        "symptoms": [
+            "abdominal_pain",
+            "itching",
+            "loss_of_appetite",
+            "nausea",
+            "vomiting",
+            "yellowing_of_eyes",
+            "yellowish_skin"
+        ]
+    },
+    "Drug Reaction": {
+        "disease_name": "Drug Reaction",
+        "icd10": "L27.0",
+        "description": "An adverse reaction of the skin or body to a medication, ranging from mild rashes to severe systemic reactions.",
+        "precautions": [
+            "Stop the suspected medication immediately",
+            "Consult the prescribing doctor",
+            "Use antihistamines for itching",
+            "Seek emergency care if face/throat swells"
+        ],
+        "symptoms": [
+            "burning_micturition",
+            "itching",
+            "skin_rash",
+            "spotting_urination",
+            "stomach_pain"
+        ]
+    },
+    "Peptic ulcer diseae": {
+        "disease_name": "Peptic ulcer diseae",
+        "icd10": "K27.9",
+        "description": "Sores that develop on the inside lining of the stomach and the upper part of the small intestine, causing burning stomach pain.",
+        "precautions": [
+            "Avoid NSAIDs like ibuprofen or aspirin",
+            "Limit spicy foods, caffeine, and alcohol",
+            "Take antacids or acid-reducing medications",
+            "Manage stress levels"
+        ],
+        "symptoms": [
+            "abdominal_pain",
+            "indigestion",
+            "internal_itching",
+            "loss_of_appetite",
+            "passage_of_gases",
+            "vomiting"
+        ]
+    },
+    "AIDS": {
+        "disease_name": "AIDS",
+        "icd10": "B24",
+        "description": "Acquired Immunodeficiency Syndrome is a chronic, potentially life-threatening condition caused by the Human Immunodeficiency Virus (HIV).",
+        "precautions": [
+            "Follow Antiretroviral Therapy (ART) strictly",
+            "Practice safe sex",
+            "Avoid contact with raw or undercooked foods",
+            "Get regular medical checkups"
+        ],
+        "symptoms": [
+            "extra_marital_contacts",
+            "high_fever",
+            "muscle_wasting",
+            "patches_in_throat"
+        ]
+    },
+    "Diabetes": {
+        "disease_name": "Diabetes",
+        "icd10": "E11.9",
+        "description": "A group of diseases that affect how the body uses blood sugar, characterized by high blood glucose levels.",
+        "precautions": [
+            "Monitor blood glucose levels regularly",
+            "Follow a balanced, low-glycemic diet",
+            "Engage in regular physical exercise",
+            "Take insulin or oral medications as prescribed"
+        ],
+        "symptoms": [
+            "blurred_and_distorted_vision",
+            "excessive_hunger",
+            "fatigue",
+            "increased_appetite",
+            "irregular_sugar_level",
+            "lethargy",
+            "obesity",
+            "polyuria",
+            "restlessness",
+            "weight_loss"
+        ]
+    },
+    "Gastroenteritis": {
+        "disease_name": "Gastroenteritis",
+        "icd10": "A09.9",
+        "description": "Inflammation of the stomach and intestines, typically resulting from bacterial or viral infection, causing diarrhea and vomiting.",
+        "precautions": [
+            "Stay hydrated with oral rehydration solutions",
+            "Follow the BRAT diet (Bananas, Rice, Applesauce, Toast)",
+            "Wash hands frequently",
+            "Avoid dairy, caffeine, and fatty foods"
+        ],
+        "symptoms": [
+            "dehydration",
+            "diarrhoea",
+            "sunken_eyes",
+            "vomiting"
+        ]
+    },
+    "Bronchial Asthma": {
+        "disease_name": "Bronchial Asthma",
+        "icd10": "J45.9",
+        "description": "A chronic condition that inflames and narrows the airways, causing difficulty breathing, chest tightness, wheezing, and coughing.",
+        "precautions": [
+            "Use prescribed rescue and control inhalers",
+            "Avoid known asthma triggers like dust or smoke",
+            "Keep a peak flow meter handy",
+            "Seek emergency help during severe attacks"
+        ],
+        "symptoms": [
+            "breathlessness",
+            "cough",
+            "family_history",
+            "fatigue",
+            "high_fever",
+            "mucoid_sputum"
+        ]
+    },
+    "Hypertension": {
+        "disease_name": "Hypertension",
+        "icd10": "I10",
+        "description": "High blood pressure is a common condition where the long-term force of blood against artery walls is high enough to cause health issues.",
+        "precautions": [
+            "Reduce salt intake in diet",
+            "Exercise regularly",
+            "Maintain a healthy weight",
+            "Take antihypertensive medication regularly"
+        ],
+        "symptoms": [
+            "chest_pain",
+            "dizziness",
+            "headache",
+            "lack_of_concentration",
+            "loss_of_balance"
+        ]
+    },
+    "Migraine": {
+        "disease_name": "Migraine",
+        "icd10": "G43.9",
+        "description": "A neurological condition that causes intense, throbbing headaches, often accompanied by nausea, vomiting, and sensitivity to light/sound.",
+        "precautions": [
+            "Rest in a dark, quiet room",
+            "Identify and avoid triggers (stress, caffeine, certain foods)",
+            "Apply cold or warm compresses to the head",
+            "Take prescribed migraine medication early"
+        ],
+        "symptoms": [
+            "acidity",
+            "blurred_and_distorted_vision",
+            "depression",
+            "excessive_hunger",
+            "headache",
+            "indigestion",
+            "irritability",
+            "stiff_neck",
+            "visual_disturbances"
+        ]
+    },
+    "Cervical spondylosis": {
+        "disease_name": "Cervical spondylosis",
+        "icd10": "M47.8",
+        "description": "Age-related wear and tear affecting the spinal disks in your neck, which can cause pain and stiffness.",
+        "precautions": [
+            "Do neck exercises to improve flexibility",
+            "Maintain good posture while sitting or standing",
+            "Use an orthopedic neck pillow",
+            "Apply heat/cold packs to the neck"
+        ],
+        "symptoms": [
+            "back_pain",
+            "dizziness",
+            "loss_of_balance",
+            "neck_pain",
+            "weakness_in_limbs"
+        ]
+    },
+    "Paralysis (brain hemorrhage)": {
+        "disease_name": "Paralysis (brain hemorrhage)",
+        "icd10": "I61.9",
+        "description": "Loss of muscle function in part of the body, here specifically caused by bleeding in the brain (intracerebral hemorrhage). A medical emergency.",
+        "precautions": [
+            "Call emergency medical services immediately",
+            "Do not move the patient unnecessarily",
+            "Keep patient calm and lying down",
+            "Note the exact time symptoms started"
+        ],
+        "symptoms": [
+            "altered_sensorium",
+            "headache",
+            "vomiting",
+            "weakness_of_one_body_side"
+        ]
+    },
+    "Jaundice": {
+        "disease_name": "Jaundice",
+        "icd10": "R17",
+        "description": "A yellow staining of the skin and sclerae (whites of the eyes) caused by high levels of bilirubin in the blood.",
+        "precautions": [
+            "Consult a doctor to determine the underlying cause",
+            "Avoid alcohol completely",
+            "Stay well hydrated",
+            "Eat a low-fat, liver-friendly diet"
+        ],
+        "symptoms": [
+            "abdominal_pain",
+            "dark_urine",
+            "fatigue",
+            "high_fever",
+            "itching",
+            "vomiting",
+            "weight_loss",
+            "yellowish_skin"
+        ]
+    },
+    "Malaria": {
+        "disease_name": "Malaria",
+        "icd10": "B54",
+        "description": "A serious and sometimes fatal disease caused by a parasite that commonly infects a certain type of mosquito which feeds on humans.",
+        "precautions": [
+            "Take prescribed antimalarial medications fully",
+            "Use mosquito nets and repellents",
+            "Wear long-sleeved clothing outdoors",
+            "Seek immediate medical attention for high fever"
+        ],
+        "symptoms": [
+            "chills",
+            "diarrhoea",
+            "headache",
+            "high_fever",
+            "muscle_pain",
+            "nausea",
+            "sweating",
+            "vomiting"
+        ]
+    },
+    "Chicken pox": {
+        "disease_name": "Chicken pox",
+        "icd10": "B01.9",
+        "description": "A highly contagious viral infection causing an itchy, blister-like rash on the skin.",
+        "precautions": [
+            "Avoid scratching the blisters (risk of infection/scars)",
+            "Take lukewarm oatmeal baths",
+            "Use calamine lotion to soothe itching",
+            "Isolate from high-risk individuals"
+        ],
+        "symptoms": [
+            "fatigue",
+            "headache",
+            "high_fever",
+            "itching",
+            "lethargy",
+            "loss_of_appetite",
+            "malaise",
+            "mild_fever",
+            "red_spots_over_body",
+            "skin_rash",
+            "swelled_lymph_nodes"
+        ]
+    },
+    "Dengue": {
+        "disease_name": "Dengue",
+        "icd10": "A90",
+        "description": "A mosquito-borne viral disease causing a severe flu-like illness, and sometimes a potentially lethal complication called dengue hemorrhagic fever.",
+        "precautions": [
+            "Stay hydrated to replace fluids lost to fever",
+            "Avoid aspirin or ibuprofen (risk of bleeding); use paracetamol instead",
+            "Rest as much as possible",
+            "Protect against further mosquito bites"
+        ],
+        "symptoms": [
+            "back_pain",
+            "chills",
+            "fatigue",
+            "headache",
+            "high_fever",
+            "joint_pain",
+            "loss_of_appetite",
+            "malaise",
+            "muscle_pain",
+            "nausea",
+            "pain_behind_the_eyes",
+            "red_spots_over_body",
+            "skin_rash",
+            "vomiting"
+        ]
+    },
+    "Typhoid": {
+        "disease_name": "Typhoid",
+        "icd10": "A01.0",
+        "description": "A bacterial infection caused by Salmonella typhi, transmitted through contaminated food or water, causing high fever, weakness, and abdominal pain.",
+        "precautions": [
+            "Take prescribed antibiotics for the full duration",
+            "Drink boiled or bottled water only",
+            "Eat thoroughly cooked hot foods",
+            "Wash hands thoroughly with soap"
+        ],
+        "symptoms": [
+            "abdominal_pain",
+            "belly_pain",
+            "chills",
+            "constipation",
+            "diarrhoea",
+            "fatigue",
+            "headache",
+            "high_fever",
+            "nausea",
+            "toxic_look_(typhos)",
+            "vomiting"
+        ]
+    },
+    "hepatitis A": {
+        "disease_name": "hepatitis A",
+        "icd10": "B15.9",
+        "description": "A highly contagious liver infection caused by the hepatitis A virus, typically spread through contaminated food or water.",
+        "precautions": [
+            "Get plenty of bed rest",
+            "Eat small, high-calorie meals",
+            "Avoid alcohol and liver-taxing drugs",
+            "Practice strict hand hygiene"
+        ],
+        "symptoms": [
+            "abdominal_pain",
+            "dark_urine",
+            "diarrhoea",
+            "joint_pain",
+            "loss_of_appetite",
+            "mild_fever",
+            "muscle_pain",
+            "nausea",
+            "vomiting",
+            "yellowing_of_eyes",
+            "yellowish_skin"
+        ]
+    },
+    "Hepatitis B": {
+        "disease_name": "Hepatitis B",
+        "icd10": "B16.9",
+        "description": "A serious liver infection caused by the hepatitis B virus, transmitted through contact with infectious body fluids.",
+        "precautions": [
+            "Consult a doctor for antiviral treatment options",
+            "Avoid alcohol to protect the liver",
+            "Practice safe sex and do not share needles",
+            "Ensure family members are vaccinated"
+        ],
+        "symptoms": [
+            "abdominal_pain",
+            "dark_urine",
+            "fatigue",
+            "itching",
+            "lethargy",
+            "loss_of_appetite",
+            "malaise",
+            "receiving_blood_transfusion",
+            "receiving_unsterile_injections",
+            "yellow_urine",
+            "yellowing_of_eyes",
+            "yellowish_skin"
+        ]
+    },
+    "Hepatitis C": {
+        "disease_name": "Hepatitis C",
+        "icd10": "B18.2",
+        "description": "An infection caused by the hepatitis C virus that attacks the liver and leads to inflammation, transmitted through blood-to-blood contact.",
+        "precautions": [
+            "Consult a specialist for modern direct-acting antivirals",
+            "Avoid alcohol",
+            "Do not share razors or toothbrushes",
+            "Monitor liver health regularly"
+        ],
+        "symptoms": [
+            "family_history",
+            "fatigue",
+            "loss_of_appetite",
+            "nausea",
+            "yellowing_of_eyes",
+            "yellowish_skin"
+        ]
+    },
+    "Hepatitis D": {
+        "disease_name": "Hepatitis D",
+        "icd10": "B17.0",
+        "description": "A liver disease caused by the hepatitis D virus, which only occurs in people who are already infected with hepatitis B.",
+        "precautions": [
+            "Receive specialized medical supervision",
+            "Avoid alcohol completely",
+            "Prevent transmission to others",
+            "Manage hepatitis B infection actively"
+        ],
+        "symptoms": [
+            "abdominal_pain",
+            "dark_urine",
+            "fatigue",
+            "joint_pain",
+            "loss_of_appetite",
+            "nausea",
+            "vomiting",
+            "yellowing_of_eyes",
+            "yellowish_skin"
+        ]
+    },
+    "Hepatitis E": {
+        "disease_name": "Hepatitis E",
+        "icd10": "B17.2",
+        "description": "A liver disease caused by the hepatitis E virus, usually transmitted via the fecal-oral route through contaminated water.",
+        "precautions": [
+            "Ensure drinking water is safe/boiled",
+            "Rest and maintain adequate nutrition",
+            "Avoid alcohol",
+            "Pregnant women must seek immediate medical care"
+        ],
+        "symptoms": [
+            "abdominal_pain",
+            "acute_liver_failure",
+            "coma",
+            "dark_urine",
+            "fatigue",
+            "high_fever",
+            "joint_pain",
+            "loss_of_appetite",
+            "nausea",
+            "stomach_bleeding",
+            "vomiting",
+            "yellowing_of_eyes",
+            "yellowish_skin"
+        ]
+    },
+    "Alcoholic hepatitis": {
+        "disease_name": "Alcoholic hepatitis",
+        "icd10": "K70.1",
+        "description": "Inflammation of the liver caused by drinking alcohol. Continued drinking can lead to cirrhosis and liver failure.",
+        "precautions": [
+            "Stop drinking alcohol completely and permanently",
+            "Follow a high-protein, nutrient-rich diet",
+            "Seek therapy or support groups for addiction",
+            "Consult a hepatologist"
+        ],
+        "symptoms": [
+            "abdominal_pain",
+            "distention_of_abdomen",
+            "fluid_overload",
+            "history_of_alcohol_consumption",
+            "swelling_of_stomach",
+            "vomiting",
+            "yellowish_skin"
+        ]
+    },
+    "Tuberculosis": {
+        "disease_name": "Tuberculosis",
+        "icd10": "A15.9",
+        "description": "A potentially serious infectious disease that mainly affects the lungs, caused by the bacterium Mycobacterium tuberculosis.",
+        "precautions": [
+            "Take all prescribed anti-TB medications for 6+ months without fail",
+            "Stay in a well-ventilated room",
+            "Cover your mouth when coughing or sneezing",
+            "Get regular sputum examinations"
+        ],
+        "symptoms": [
+            "blood_in_sputum",
+            "breathlessness",
+            "chest_pain",
+            "chills",
+            "cough",
+            "fatigue",
+            "high_fever",
+            "loss_of_appetite",
+            "malaise",
+            "mild_fever",
+            "phlegm",
+            "sweating",
+            "swelled_lymph_nodes",
+            "vomiting",
+            "weight_loss",
+            "yellowing_of_eyes"
+        ]
+    },
+    "Common Cold": {
+        "disease_name": "Common Cold",
+        "icd10": "J00",
+        "description": "A viral infection of your nose and throat (upper respiratory tract). It's usually harmless.",
+        "precautions": [
+            "Drink plenty of warm fluids (tea, broth)",
+            "Get sufficient rest",
+            "Use saline nasal sprays or rinses",
+            "Take paracetamol for body aches"
+        ],
+        "symptoms": [
+            "chest_pain",
+            "chills",
+            "congestion",
+            "continuous_sneezing",
+            "cough",
+            "fatigue",
+            "headache",
+            "high_fever",
+            "loss_of_smell",
+            "malaise",
+            "muscle_pain",
+            "phlegm",
+            "redness_of_eyes",
+            "runny_nose",
+            "sinus_pressure",
+            "swelled_lymph_nodes",
+            "throat_irritation"
+        ]
+    },
+    "Pneumonia": {
+        "disease_name": "Pneumonia",
+        "icd10": "J18.9",
+        "description": "An infection that inflames the air sacs in one or both lungs, which may fill with fluid or pus, causing cough, fever, and difficulty breathing.",
+        "precautions": [
+            "Take prescribed antibiotics or antivirals fully",
+            "Use a humidifier or take warm baths",
+            "Avoid smoking or secondhand smoke",
+            "Get plenty of rest and drink fluids"
+        ],
+        "symptoms": [
+            "breathlessness",
+            "chest_pain",
+            "chills",
+            "cough",
+            "fast_heart_rate",
+            "fatigue",
+            "high_fever",
+            "malaise",
+            "phlegm",
+            "rusty_sputum",
+            "sweating"
+        ]
+    },
+    "Dimorphic hemmorhoids(piles)": {
+        "disease_name": "Dimorphic hemmorhoids(piles)",
+        "icd10": "I84.9",
+        "description": "Swollen veins in your anus and lower rectum, similar to varicose veins. Can cause pain, itching, and bleeding during bowel movements.",
+        "precautions": [
+            "Eat high-fiber foods (fruits, vegetables, grains)",
+            "Drink plenty of water",
+            "Avoid straining during bowel movements",
+            "Take warm sitz baths"
+        ],
+        "symptoms": [
+            "bloody_stool",
+            "constipation",
+            "irritation_in_anus",
+            "pain_during_bowel_movements",
+            "pain_in_anal_region"
+        ]
+    },
+    "Heart attack": {
+        "disease_name": "Heart attack",
+        "icd10": "I21.9",
+        "description": "A medical emergency when blood flow to a part of the heart muscle is blocked. Immediate treatment is vital to prevent heart damage.",
+        "precautions": [
+            "Call emergency services (15, 112, 911) immediately",
+            "Chew an aspirin if recommended by emergency dispatchers",
+            "Sit down and stay calm while waiting for help",
+            "Be prepared for CPR if patient loses consciousness"
+        ],
+        "symptoms": [
+            "breathlessness",
+            "chest_pain",
+            "sweating",
+            "vomiting"
+        ]
+    },
+    "Varicose veins": {
+        "disease_name": "Varicose veins",
+        "icd10": "I83.9",
+        "description": "Gnarled, enlarged veins, most commonly in the legs and feet, caused by weak or damaged vein walls and valves.",
+        "precautions": [
+            "Avoid standing or sitting for long periods",
+            "Wear compression stockings",
+            "Elevate your legs when resting",
+            "Exercise regularly to improve leg circulation"
+        ],
+        "symptoms": [
+            "bruising",
+            "cramps",
+            "fatigue",
+            "obesity",
+            "prominent_veins_on_calf",
+            "swollen_blood_vessels",
+            "swollen_legs"
+        ]
+    },
+    "Hypothyroidism": {
+        "disease_name": "Hypothyroidism",
+        "icd10": "E03.9",
+        "description": "A condition in which the thyroid gland doesn't produce enough thyroid hormone, slowing down the metabolism.",
+        "precautions": [
+            "Take prescribed thyroid hormone replacement (levothyroxine) daily",
+            "Have thyroid levels checked regularly",
+            "Eat a balanced, fiber-rich diet",
+            "Report signs of dosage issues (fatigue vs heart racing) to doctor"
+        ],
+        "symptoms": [
+            "abnormal_menstruation",
+            "brittle_nails",
+            "cold_hands_and_feets",
+            "depression",
+            "dizziness",
+            "enlarged_thyroid",
+            "fatigue",
+            "irritability",
+            "lethargy",
+            "mood_swings",
+            "puffy_face_and_eyes",
+            "swollen_extremeties",
+            "weight_gain"
+        ]
+    },
+    "Hyperthyroidism": {
+        "disease_name": "Hyperthyroidism",
+        "icd10": "E05.9",
+        "description": "The production of too much thyroid hormone by the thyroid gland, which can accelerate your body's metabolism.",
+        "precautions": [
+            "Take anti-thyroid medications as prescribed",
+            "Follow a low-iodine diet if recommended",
+            "Monitor heart rate and weight",
+            "Seek medical advice for eye changes or severe anxiety"
+        ],
+        "symptoms": [
+            "abnormal_menstruation",
+            "diarrhoea",
+            "excessive_hunger",
+            "fast_heart_rate",
+            "fatigue",
+            "irritability",
+            "mood_swings",
+            "muscle_weakness",
+            "restlessness",
+            "sweating",
+            "weight_loss"
+        ]
+    },
+    "Hypoglycemia": {
+        "disease_name": "Hypoglycemia",
+        "icd10": "E16.2",
+        "description": "A condition characterized by an abnormally low level of blood sugar (glucose), requiring immediate sugar intake.",
+        "precautions": [
+            "Consume 15g of fast-acting sugar (fruit juice, candy) immediately",
+            "Check blood glucose after 15 minutes",
+            "Eat a snack with complex carbs and protein afterwards",
+            "Carry glucose tablets at all times"
+        ],
+        "symptoms": [
+            "anxiety",
+            "blurred_and_distorted_vision",
+            "drying_and_tingling_lips",
+            "excessive_hunger",
+            "fatigue",
+            "headache",
+            "irritability",
+            "nausea",
+            "palpitations",
+            "slurred_speech",
+            "sweating",
+            "vomiting"
+        ]
+    },
+    "Osteoarthristis": {
+        "disease_name": "Osteoarthristis",
+        "icd10": "M19.9",
+        "description": "The most common form of arthritis, featuring wear and tear of joint cartilage, leading to pain, stiffness, and swelling.",
+        "precautions": [
+            "Engage in low-impact exercise (swimming, cycling)",
+            "Maintain a healthy weight to reduce joint load",
+            "Apply heat for stiffness and cold for swelling",
+            "Use assistive devices if necessary"
+        ],
+        "symptoms": [
+            "hip_joint_pain",
+            "joint_pain",
+            "knee_pain",
+            "neck_pain",
+            "painful_walking",
+            "swelling_joints"
+        ]
+    },
+    "Arthritis": {
+        "disease_name": "Arthritis",
+        "icd10": "M13.9",
+        "description": "Inflammation of one or more joints, causing pain and stiffness that can worsen with age.",
+        "precautions": [
+            "Stay active with gentle stretching and range-of-motion exercises",
+            "Use anti-inflammatory diets or supplements",
+            "Consult a rheumatologist for diagnosis",
+            "Protect joints from excessive strain"
+        ],
+        "symptoms": [
+            "movement_stiffness",
+            "muscle_weakness",
+            "painful_walking",
+            "stiff_neck",
+            "swelling_joints"
+        ]
+    },
+    "(vertigo) Paroymsal  Positional Vertigo": {
+        "disease_name": "(vertigo) Paroymsal  Positional Vertigo",
+        "icd10": "H81.1",
+        "description": "Benign Paroxysmal Positional Vertigo (BPPV) is a disorder of the inner ear that causes brief episodes of severe spinning sensations (vertigo).",
+        "precautions": [
+            "Avoid sudden neck or head movements",
+            "Sit down immediately when feeling dizzy",
+            "Perform Epley maneuver (if instructed by a professional)",
+            "Avoid sleeping on the affected side"
+        ],
+        "symptoms": [
+            "headache",
+            "loss_of_balance",
+            "nausea",
+            "spinning_movements",
+            "unsteadiness",
+            "vomiting"
+        ]
+    },
+    "Acne": {
+        "disease_name": "Acne",
+        "icd10": "L70.9",
+        "description": "A skin condition that occurs when hair follicles become plugged with oil and dead skin cells, causing pimples, blackheads, or whiteheads.",
+        "precautions": [
+            "Wash face twice daily with a gentle cleanser",
+            "Avoid squeezing or popping pimples",
+            "Use non-comedogenic (pore-clogging) cosmetics",
+            "Consult a dermatologist for topical/oral treatments"
+        ],
+        "symptoms": [
+            "blackheads",
+            "pus_filled_pimples",
+            "scurring",
+            "skin_rash"
+        ]
+    },
+    "Urinary tract infection": {
+        "disease_name": "Urinary tract infection",
+        "icd10": "N39.0",
+        "description": "An infection in any part of the urinary system, usually the kidneys, ureters, bladder, or urethra, causing burning pain during urination.",
+        "precautions": [
+            "Drink plenty of water to flush out bacteria",
+            "Urinate after sexual intercourse",
+            "Wipe from front to back after using the toilet",
+            "Take the full course of prescribed antibiotics"
+        ],
+        "symptoms": [
+            "bladder_discomfort",
+            "burning_micturition",
+            "continuous_feel_of_urine",
+            "foul_smell_of_urine"
+        ]
+    },
+    "Psoriasis": {
+        "disease_name": "Psoriasis",
+        "icd10": "L40.9",
+        "description": "A skin disease that causes red, itchy, scaly patches, most commonly on the knees, elbows, trunk, and scalp.",
+        "precautions": [
+            "Keep skin well-moisturized",
+            "Avoid triggers like stress, skin injuries, and smoking",
+            "Expose skin to moderate, controlled sunlight",
+            "Use prescribed topical creams or systemic therapies"
+        ],
+        "symptoms": [
+            "inflammatory_nails",
+            "joint_pain",
+            "silver_like_dusting",
+            "skin_peeling",
+            "skin_rash",
+            "small_dents_in_nails"
+        ]
+    },
+    "Impetigo": {
+        "disease_name": "Impetigo",
+        "icd10": "L01.0",
+        "description": "A highly contagious bacterial skin infection causing sores and blisters, common in children.",
+        "precautions": [
+            "Wash sores with soap and water; cover loosely",
+            "Wash infected person's clothes/linen separately",
+            "Keep fingernails cut short",
+            "Apply prescribed antibiotic ointment"
+        ],
+        "symptoms": [
+            "blister",
+            "high_fever",
+            "red_sore_around_nose",
+            "skin_rash",
+            "yellow_crust_ooze"
+        ]
+    }
+}
